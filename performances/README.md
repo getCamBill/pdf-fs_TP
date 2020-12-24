@@ -42,7 +42,7 @@ Voici les statistiques que nous avons obtenu pour un fichier de 50Mo :
 Voici ensuite les statistiques que nous avons obtenu pour un fichier de 100Mo : 
 
 ![fichier de 100Mo](100Mo.png)
-
+(Conclu bevilacqua)
 On remarque dans le graphique que le gain de temps est conséquant et subit un arrêt brutal passé une certaine taille de buffer (entre 512 et 1024 octets). Cela signifie que augmenter sigificativement la taille du buffer n'augmente pas la vitesse d'exécution.
 
 Il y a donc une taille de buffer optimale à avoir afin de ne pas utiliser inutilement trop de mémoire et pour lequel le gain de temps est important avant de devenir marginal.
