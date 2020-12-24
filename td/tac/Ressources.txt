@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/27549718/behaviour-of-fseek-and-seek-end
+https://zestedesavoir.com/tutoriels/2787/la-verite-sur-les-tableaux-et-pointeurs-en-c/
+https://www.labri.fr/perso/billaud/travaux/Pointeurs/pointeurs.html#compl%C3%A9ment-pointeurs-vers-des-structures-la-notation-fl%C3%A8che
+
